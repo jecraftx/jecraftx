@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey 👋 Привет 👋 안녕 👋
 
 
 
-![hippo](https://thumbs.gfycat.com/SaneDelightfulAnophelesmosquito-small.gif)
+![hippo](https://psv4.userapi.com/c237331/u2000012282/docs/d28/c1de1c062a99/file.gif?extra=XUvzXbRBPFao6kshvb9b0PvTYhZlJx99ERcCVJSSAXVVV3D2vXGKMXh2-qZQBnORbU42XQ9LwtnTNdwxgv9BxWUubOCGdnGqnSy7E4XlgzPE_wWSCW53t_hT85183J21KUOWws6kuEutNtlXvn8mtFo)
 <!--
 **jecraftx/jecraftx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
