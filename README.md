@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+![hippo](https://thumbs.gfycat.com/ObeseFreeAsianconstablebutterfly-small.gif)
 <!--
 **jecraftx/jecraftx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
