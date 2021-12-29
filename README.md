@@ -2,7 +2,7 @@
 
 
 
-![hippo](https://thumbs.gfycat.com/ObeseFreeAsianconstablebutterfly-small.gif)
+![hippo](https://thumbs.gfycat.com/SaneDelightfulAnophelesmosquito-small.gif)
 <!--
 **jecraftx/jecraftx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
