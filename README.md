@@ -2,7 +2,7 @@
 
 
 
-![hippo](https://c.tenor.com/KYhHQYEyfFYAAAAC/mochi-peach.gif)
+![hippo](https://i.pinimg.com/originals/92/9c/a8/929ca8b51b2a0e3df8887bec41baa334.gif)
 <!--
 **jecraftx/jecraftx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
