@@ -3,7 +3,7 @@
 
 ![hippo](https://thumbs.gfycat.com/EssentialFastCicada-small.gif)   
 </div>
-<h2 style="text-align:center;">Hey 👋 Привет 👋 안녕 👋</h2> <hr> <br>
+<h2 style="text-align:center;">Hey 👋 Привет 👋 안녕 👋</h2><br>
 <div style="display: flex;">
 <div> 
 
