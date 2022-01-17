@@ -1,9 +1,9 @@
 <div style="display: flex;
-  justify-content: center;">
+  justify-content: center; text-align: center; align-items: center;">
 
 ![hippo](https://thumbs.gfycat.com/EssentialFastCicada-small.gif)   
 </div>
-<h2 style="text-align:center;">Hey 👋 Привет 👋 안녕 👋</h2><br>
+<h2 style="text-align:center;">Hey 👋 Привет 👋 안녕 👋</h2> <hr> <br>
 <div style="display: flex;">
 <div> 
 
@@ -36,4 +36,7 @@
 
 
 ## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api) 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
