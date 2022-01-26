@@ -1,20 +1,16 @@
-<div style="display: flex;
+<div align="center" style="display: flex;
   justify-content: center;">
 
 ![hippo](https://thumbs.gfycat.com/EssentialFastCicada-small.gif)   
+    <h2 style="text-align:center;">Hey 👋 Привет 👋 안녕 👋</h2><br>
 </div>
-<h2 style="text-align:center;">Hey 👋 Привет 👋 안녕 👋</h2><br>
 
-<div style="display: flex;">
-<div> 
-
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=jecraftx&show_icons=true) &nbsp; &nbsp; 
-</div> 
-<div>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jecraftx&theme=blue-white)
+<div align="center">
+  <div style="display: flex;">
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecraftx&layout=compact&show_icons=true&title_color=blue&icon_color=blue&text_color=blue&bg_color=white"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jecraftx&show_icons=true&title_color=blue&icon_color=blue&text_color=blue&bg_color=white"/></td>
+  </div>
 </div>
-</div> <hr>
 
 <i><h3 style="text-align:center;" >Currently using | learning :</h3></i>
 <div>
@@ -37,6 +33,4 @@
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
 
