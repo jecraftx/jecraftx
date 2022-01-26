@@ -7,8 +7,8 @@
 
 <div align="center">
   <div style="display: flex;">
-    <td valign="top"><img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecraftx&layout=compact&show_icons=true&title_color=blue&icon_color=blue&text_color=blue&bg_color=white"/></td>
-    <td valign="top"><img width="200px" src="https://github-readme-stats.vercel.app/api?username=jecraftx&show_icons=true&title_color=blue&icon_color=blue&text_color=blue&bg_color=white"/></td>
+    <td valign="top"><img width="333px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecraftx&layout=compact&show_icons=true&title_color=blue&icon_color=blue&text_color=blue&bg_color=white"/></td>
+    <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=jecraftx&show_icons=true&title_color=blue&icon_color=blue&text_color=blue&bg_color=white"/></td>
   </div>
 </div>
 
