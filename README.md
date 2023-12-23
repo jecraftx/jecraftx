@@ -1,7 +1,7 @@
 <div align="center" style="display: flex;
   justify-content: center;">
 
-![hippo]([https://thumbs.gfycat.com/EssentialFastCicada-small.gif](https://media.giphy.com/media/lEwyKOEm0vqnoNF8jt/giphy.gif])   
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)  
     <h2 style="text-align:center;">Hey 👋 Привет 👋 안녕 👋</h2><br>
 </div>
 
