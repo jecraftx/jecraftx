@@ -1,7 +1,8 @@
 <div align="center" style="display: flex;
   justify-content: center;">
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)  
+![alt text](![image](https://github.com/jecraftx/jecraftx/assets/96437192/5d899285-b505-4c7c-adfb-055980f29648)
+)
     <h2 style="text-align:center;">Hey 👋 Привет 👋 안녕 👋</h2><br>
 </div>
 
