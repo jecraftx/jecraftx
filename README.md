@@ -3,13 +3,6 @@
   justify-content: center;">
 </div>
 
-<div align="center">
-  <div style="display: flex;">
-    <td valign="top"><img width="333px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecraftx&layout=compact&show_icons=true&title_color=blue&icon_color=blue&text_color=blue&bg_color=white"/></td>
-    <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=jecraftx&show_icons=true&title_color=blue&icon_color=blue&text_color=blue&bg_color=white"/></td>
-  </div>
-</div>
-
 <i><h3 style="text-align:center;" >Currently using | learning :</h3></i>
 <div>
 <img src="https://camo.githubusercontent.com/444281fc4b5f8aaaa82d6d1c0e6fb26c4dfac66f543beb80d32300c6230e1f64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652e6a732d3432423838333f7374796c653d666c61742d737175617265266c6f676f3d5675652e6a73266c6f676f436f6c6f723d7768697465" height=23>
@@ -28,6 +21,12 @@
 <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://camo.githubusercontent.com/fb6d3697ea1b63b88f1a5c69c00d63da09b38c6247447b3ccaf7b8eedb407821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65e280916d61696c2d4431343833362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d474d61696c266c6f676f436f6c6f723d7768697465" height=25></a> 
 </p> <hr> 
 
+<div align="center">
+  <div style="display: flex;">
+    <td valign="top"><img width="333px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecraftx&layout=compact&show_icons=true&title_color=blue&icon_color=blue&text_color=blue&bg_color=white"/></td>
+    <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=jecraftx&show_icons=true&title_color=blue&icon_color=blue&text_color=blue&bg_color=white"/></td>
+  </div>
+</div>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
