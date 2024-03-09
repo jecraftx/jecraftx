@@ -10,9 +10,9 @@ Interests:
 - Blender
 - Cooking
 
-How toreach me:
-🚀 rickyssson783@gmail.com
-🚀 https://www.linkedin.com/in/adina-meiremkhankyzy-645255236/
+How to reach me:
+- **🚀 rickyssson783@gmail.com
+- **🚀 https://www.linkedin.com/in/adina-meiremkhankyzy-645255236/
 <!-- <i><h3 style="text-align:center;" >Currently using | learning :</h3></i>
 <div>
 <img src="https://camo.githubusercontent.com/444281fc4b5f8aaaa82d6d1c0e6fb26c4dfac66f543beb80d32300c6230e1f64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652e6a732d3432423838333f7374796c653d666c61742d737175617265266c6f676f3d5675652e6a73266c6f676f436f6c6f723d7768697465" height=23>
