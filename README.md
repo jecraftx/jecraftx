@@ -2,8 +2,8 @@
 My name is Adina and I'm a computer science student. 
 
 Here's some info about me:
-- I love to learn about new things & stay up to date on the latest trends in the tech industry 
-- I am always looking for opportunities to grow and develop my skills as a software engineer 
+- I love to learn about new things & stay up to date on the latest trends in the tech industry.
+- I am always looking for opportunities to grow and develop my skills as a software engineer.
 
 Interests:
 - Web Development
