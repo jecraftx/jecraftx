@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Adina and I'm a computer science student from Korea. 
+My name is Adina and I'm a computer science student. 
 
 Here's some info about me:
 - I love to learn about new things & stay up to date on the latest trends in the tech industry 
