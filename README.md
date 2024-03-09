@@ -1,7 +1,6 @@
+<h2 style="text-align:center;">Hey 👋</h2><br>
 <div align="center" style="display: flex;
   justify-content: center;">
-  
-<h2 style="text-align:center;">Hey 👋</h2><br>
 </div>
 
 <div align="center">
