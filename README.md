@@ -1,8 +1,18 @@
-<h2 style="text-align:center;">Hey 👋</h2><br>
-<div align="center" style="display: flex;
-  justify-content: center;">
-</div>
+### Hi there 👋
+My name is Adina and I'm a computer science student from Korea. 
 
+Here's some info about me:
+- I love to learn about new things & stay up to date on the latest trends in the tech industry 
+- I am always looking for opportunities to grow and develop my skills as a software engineer 
+
+Interests:
+- Web Development
+- Blender
+- Cooking
+
+How toreach me:
+🚀 rickyssson783@gmail.com
+🚀 https://www.linkedin.com/in/adina-meiremkhankyzy-645255236/
 <!-- <i><h3 style="text-align:center;" >Currently using | learning :</h3></i>
 <div>
 <img src="https://camo.githubusercontent.com/444281fc4b5f8aaaa82d6d1c0e6fb26c4dfac66f543beb80d32300c6230e1f64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652e6a732d3432423838333f7374796c653d666c61742d737175617265266c6f676f3d5675652e6a73266c6f676f436f6c6f723d7768697465" height=23>
@@ -15,11 +25,6 @@
 -->
 
 
-<p>
-<h3>-📫 How to reach me:</h3> 
-<a href="https://instagram.com/craftxscience?utm_medium=copy_l.."><img src="https://camo.githubusercontent.com/cbc854f14dc085a924da2534104c794ca78d82e06e9c02629530d3cf28b944e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" height=25></a> 
-<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://camo.githubusercontent.com/fb6d3697ea1b63b88f1a5c69c00d63da09b38c6247447b3ccaf7b8eedb407821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65e280916d61696c2d4431343833362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d474d61696c266c6f676f436f6c6f723d7768697465" height=25></a> 
-</p> <hr> 
 
 <div align="center">
   <div style="display: flex;">
