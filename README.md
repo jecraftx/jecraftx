@@ -8,6 +8,7 @@ Here's some info about me:
 Interests:
 - Web Development
 - Blender
+- Stock Trading
 - Cooking
 
 How to reach me:
