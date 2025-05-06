@@ -6,7 +6,6 @@ Here's some info about me:
 - I am always looking for opportunities to grow and develop my skills as a software engineer.
 
 Interests:
-- Web Development
 - Blender
 - Stock Trading
 - Cooking
