@@ -1,10 +1,3 @@
-### Hi there 👋
-My name is Adina and I'm a computer science student. 
-
-Interests:
-- Blender
-- Stock Trading
-- Cooking
 
 
 
